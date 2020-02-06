@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      " myspace.com"
+title:      " Myspace.com"
 date:       2020-02-05 21:23:33 -0500
 permalink:  myspace_com
 ---
