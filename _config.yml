@@ -1,11 +1,11 @@
 # Site settings
-author: bernard mel
+author: Bernard Mel
 title: T H E - B - W O R D
 header-img: img/home-bg.png
 email: bernard.mamuyac@gmail.com
-copyright_name: bernard mel
+copyright_name: Bernard Mel
 description: > # this means to ignore newlines until "baseurl:"
-  tell them b
+  t e l l - t h e m - b
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: Bernard_Mel
 github_username:  bernardmel
