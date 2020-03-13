@@ -5,7 +5,7 @@ date:       2020-02-05 21:23:33 -0500
 permalink:  myspace_com
 ---
 
-![](https://flic.kr/p/rZeVR)
+
 
 If you were born before the early '90s, you know what myspace is/was. This was the first social media I have encountered that was super popular. I believe everyone had one and it was the coolest thing to have. You had your bulletin board, which were mini-blogs, that was always refreshing since everyone was just posting random things. You had your top friends that can be customized from top 4 - top 8. It was such a big deal to be on others top friends. Then there was the never ending customization of your profile. Where you can add flying texts going across the page, adding a playlist that automatically plays when you enter the page, and having a pink glitter filter all over your page was a never ending project that consumed my early teens.  I say this because this is where I started "coding". I never realized it, and didn't even know about it until I graduated high school. It was such an eye opening experience and I realized that I can learn how to do this. 
 
